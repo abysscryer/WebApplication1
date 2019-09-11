@@ -1,0 +1,2 @@
+﻿. Make subtype
+. Make subtype enum
